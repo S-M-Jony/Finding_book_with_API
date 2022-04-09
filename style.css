@@ -1,0 +1,9 @@
+#book-img{
+    height: 400px;
+}
+
+body{
+    background-image: url(./img/Private\ library\ 2560\ x\ 1600\ Other\ Photography\ MIRIADNACOM.jpg) ;
+    background-size: cover;
+}
+
